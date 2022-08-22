@@ -1,1 +1,1 @@
-my first readme
+Ada love for coding
